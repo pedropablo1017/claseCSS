@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px;
+}
+
+h3{font-size: 100px;
+}
+
+.familiaTexto{
+font-family: "papyrus";
+font-size: 15px;
+color: #2682FF;
+text-align: justify;
+}
+body{
+    background-color: rgb(212, 247, 19);
+}
