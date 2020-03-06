@@ -11,6 +11,14 @@ font-size: 15px;
 color: #2682FF;
 text-align: justify;
 }
-body{
-    background-color: rgb(212, 247, 19);
+.bodyprincipal{
+
+    background-color: rgb(15, 17, 6);
+}
+.headerindex{
+    background-color: green;
+
+}
+.headerpagina1{
+    background-color: blue;
 }
