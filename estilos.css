@@ -22,3 +22,11 @@ text-align: justify;
 .headerpagina1{
     background-color: blue;
 }
+.imagenfondo{
+    background-image: url(img/MEDELLIN.jpg);
+    height: 400px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color: red;
+}
