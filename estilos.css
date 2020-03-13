@@ -30,3 +30,13 @@ text-align: justify;
 .textorojo{
     color: red;
 }
+
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    
+}
+tr:hover{
+    background-color:gray;
+}
+
